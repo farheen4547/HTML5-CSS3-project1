@@ -1,2 +1,2 @@
-# HTML5_CSS3-miniprojects
+# HTML5/CSS3 project1
 This is a Web Developemt miniprojects
